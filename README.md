@@ -1,10 +1,10 @@
-## 🏡 Egypt Real Estate Markert EDA  
+# 🏡 Egypt Real Estate Markert EDA  
 This project is an Exploratory Data Analysis (EDA) of a real estate dataset containing over **19,000 property listings** across Egypt.  
 The goal is to clean, process, and visualize the data to understand **market patterns, pricing behavior, property characteristics**, and **regional differences** across governorates and cities.
 
 ---
 
-## 📂 Dataset  
+# 📂 Dataset  
 The dataset includes detailed information for each property, such as:
 
 - Price  
@@ -17,7 +17,7 @@ The dataset includes detailed information for each property, such as:
 
 ---
 
-## 📚 Libraries  
+# 📚 Libraries  
 The analysis was performed in Python using the following libraries:
 
 ## Data Manipulation & Cleaning:
@@ -31,7 +31,7 @@ The analysis was performed in Python using the following libraries:
 
 ---
 
-## 🔍 Key Analysis Steps  
+# 🔍 Key Analysis Steps  
 - Checked dataset structure, shape, and summary statistics  
 - Handled missing values using targeted strategies  
 - Cleaned complex columns (e.g., parsing `"1,023 sqft / 95 sqm"` into **95 sqm**)  
@@ -46,7 +46,7 @@ The analysis was performed in Python using the following libraries:
 
 ---
 
-## 💡 Insights (High-Level)  
+# 💡 Insights (High-Level)  
 - **Apartments dominate** the dataset, representing the largest share of listings  
 - **Villas** have the highest total prices and form the luxury segment  
 - **Coastal areas** like North Coast and Red Sea show the **highest price per sqm**  
@@ -56,7 +56,7 @@ The analysis was performed in Python using the following libraries:
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -66,7 +66,7 @@ The analysis was performed in Python using the following libraries:
 
 ---
 
-## 📄 Reports  
+# 📄 Reports  
 This project includes:
 
 - **Full multi-page PDF report** summarizing analysis & insights  
@@ -75,7 +75,7 @@ This project includes:
 
 ---
 
-## 📌 Next Steps  
+# 📌 Next Steps  
 - Build a regression model to predict property prices  
 - Perform feature importance analysis  
 - Deploy an interactive dashboard for real estate insights  
