@@ -80,6 +80,3 @@ This project includes:
 - Perform feature importance analysis  
 - Deploy an interactive dashboard for real estate insights  
 
----
-
-If you’d like to explore the notebook or reports, feel free to reach out!
